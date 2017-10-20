@@ -31,3 +31,6 @@ int three = 3;
 
 # Interesting tutorials
 https://app.pluralsight.com/library/courses/java-9-whats-new/table-of-contents
+
+#Support in ideas?
+IntelliJ 2017.3 has a "jshell tool".
