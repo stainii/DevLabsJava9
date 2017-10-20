@@ -1,4 +1,4 @@
-package com.realdolmen.firstjava9app;
+package com.realdolmen.firstjava9app.nonExporting;
 
 public class SomethingToTest {
 
