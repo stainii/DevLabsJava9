@@ -35,6 +35,11 @@
         <artifactId>number-generator</artifactId>
         <version>1.0-SNAPSHOT</version>
     </dependency>
+    <dependency>
+        <groupId>com.realdolmen</groupId>
+        <artifactId>filereader</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
 </dependencies>
 
 </project>
