@@ -1,8 +1,8 @@
-#Can we run Java 8 apps in Java 9?
+# Can we run Java 8 apps in Java 9?
 
-##Yes! Unless..
+## Yes! Unless..
 
-###...your code, or a framework you use, uses **private api** from the JDK (f.e. sun.*)
+### ...your code, or a framework you use, uses **private api** from the JDK (f.e. sun.*)
 
 - If the code is compiled in Java 8: Then you get a **warning**.
 - If the code is compiled in Java 9: you get an **error**.
