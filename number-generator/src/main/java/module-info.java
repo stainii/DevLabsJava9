@@ -1,4 +1,4 @@
-module com.realdolmen.firstjava9app {
+module com.realdolmen.numberGenerator {
     exports com.realdolmen.numberGenerator.exporting;
 
 }
