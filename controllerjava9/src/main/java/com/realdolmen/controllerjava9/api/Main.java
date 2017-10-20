@@ -1,4 +1,4 @@
-package com.realdolmen.controllerjava9.exports;
+package com.realdolmen.controllerjava9.api;
 
 import com.realdolmen.numberGenerator.exporting.NumberGenerator;
 
