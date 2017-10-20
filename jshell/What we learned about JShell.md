@@ -25,5 +25,9 @@ int three = 3;
 - Ctrl-s, ctrl-r: search
 
 
-# What do miss
+# What do we miss
 - Auto import. You have to define all imports yourself, while an IDE can do this for you.
+
+
+# Interesting tutorials
+https://app.pluralsight.com/library/courses/java-9-whats-new/table-of-contents
