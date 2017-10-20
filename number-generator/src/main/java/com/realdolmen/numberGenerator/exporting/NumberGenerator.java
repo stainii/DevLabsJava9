@@ -1,6 +1,6 @@
-package com.realdolmen.firstjava9app.exporting;
+package com.realdolmen.numberGenerator.exporting;
 
-import com.realdolmen.firstjava9app.nonExporting.NonExportingNumberGenerator;
+import com.realdolmen.numberGenerator.nonExporting.NonExportingNumberGenerator;
 
 public class NumberGenerator {
     private NonExportingNumberGenerator nonExportingNumberGenerator;
@@ -9,7 +9,7 @@ public class NumberGenerator {
         this.nonExportingNumberGenerator = new NonExportingNumberGenerator();
     }
 
-    public int generateNumber() {
+    public int generateNumber(int minInclusive, int maxExclusive) {
         return nonExportingNumberGenerator.generateNumber();
     }
 }

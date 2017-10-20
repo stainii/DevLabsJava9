@@ -1,4 +1,4 @@
-package com.realdolmen.firstjava9app.nonExporting;
+package com.realdolmen.numberGenerator.nonExporting;
 
 public class NonExportingNumberGenerator {
     public int generateNumber() {
